@@ -1,0 +1,15 @@
+.idea
+.settings
+.classpath
+.project
+*.iml
+logs*
+target
+upload
+!.keepdir
+/bin/
+*.lock
+*.bak
+output
+_MACOSX
+.DS_Store
